@@ -1,0 +1,8 @@
+[package]
+name = "web-view-react"
+version = "0.1.0"
+authors = ["dskkato <kato.daisuke429@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+web-view = { version = "0.6.2", features = ["edge"] }
